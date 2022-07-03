@@ -23,11 +23,11 @@ Exercise 1.5 Anisotropy
 
     Without Anisotropy:
 
-    ![without_anisotropy](.\PNGs\without_anisotropy.png)
+    ![without_anisotropy](./PNGs/without_anisotropy.png)
 
     Without Anisotropy:
 
-    ![with_anisotropy](.\PNGs\with_anisotropy.png)
+    ![with_anisotropy](./PNGs/with_anisotropy.png)
 
     
 
