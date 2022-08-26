@@ -1,6 +1,6 @@
 ### Brief Intro 
 
-This is a coursework project for HPG program in University of Leeds.
+This is a coursework project for COMP5822M High-Performance Graphics in University of Leeds.
 
 It is based on the Vulkan framework provided by Dr. Markus Billeter.
 
