@@ -10,4 +10,4 @@ Models used in this project is from ["TDA 362/DIT223 Tutorials"](http://www.cse.
 
 1. Camera control
 2. Mipmap + Anisotropy
-
+![with_anisotropy](./PNGs/CompareAnisotropy.png)
